@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://cuongnobro.github.io/Baby/";
+            window.location = "https://www.tiktok.com/@kiet2112/video/7471203142055611666?_r=1&_d=secCgYIASAHKAESPgo8T%2FF1Ea9ebaVBsdwE0rNKWBVRzGmn1%2FqcOlQSkfCOzq3rYlyLvK%2FK4hR9aIm0GAc%2FFut%2B5PvPlHoFQU8TGgA%3D&_svg=1&checksum=b1094b528f63eca2c95c3c72d8993ff34f8e62efc92e2d29fb68e877984b224a&cover_exp=v1&link_reflow_popup_iteration_sharer=%7B%22follow_to_play_duration%22%3A-1%2C%22click_empty_to_play%22%3A1%2C%22profile_clickable%22%3A1%2C%22dynamic_cover%22%3A0%7D&mid=7471203200045959953&preview_pb=0&region=VN&sec_user_id=MS4wLjABAAAAGGxCwxmuEehToeCPt3LnqLhnW2arCRgbzQZq_HFJyvbnbTwjNhjo0N19_HwzkDhd&share_app_id=1180&share_item_id=7471203142055611666&share_link_id=CCF34E3B-FA85-4D2A-BA8B-A89B0DDDA77F&sharer_language=vi&social_share_type=0&source=h5_t&timestamp=1743938264&tt_from=copy&u_code=d08j2595183jc9&ug_btm=b8727%2Cb2878&user_id=6560886312203026433&utm_campaign=client_share&utm_medium=ios&utm_source=copy";
           },
         });
       }
